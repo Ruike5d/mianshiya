@@ -15,7 +15,7 @@ import java.io.Writer;
 /**
  * 代码生成器
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
+ * @author <a href="https://github.com/lihangyu">瑞克五代</a>
  * @from <a href="https://www.code-nav.cn">编程导航学习圈</a>
  */
 public class CodeGenerator {
@@ -29,7 +29,7 @@ public class CodeGenerator {
      */
     public static void main(String[] args) throws TemplateException, IOException {
         // 指定生成参数
-        String packageName = "com.yupi.mianshiya";
+        String packageName = "com.hangyu.mianshiya";
         String dataName = "用户评论";
         String dataKey = "userComment";
         String upperDataKey = "UserComment";
